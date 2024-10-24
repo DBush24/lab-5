@@ -1,9 +1,21 @@
 ---
 title: "Lab 5: Murder in SQL City"
-author: "Your name here!"
-format: html
+author: "Daniel Bush!"
+format: 
+  html: 
+    embed-resources: true
+    code-tools: true
+    toc: true
+    toc-depth: 2
+    code-fold: true
+    theme: sandstone
 editor: source
-embed-resources: true
+message: false
+warning: false
+execute: 
+  echo: true
+  output: true
+  error: false
 ---
 
 For this lab, you will be joining and filtering related datasets to solve a murder mystery!
